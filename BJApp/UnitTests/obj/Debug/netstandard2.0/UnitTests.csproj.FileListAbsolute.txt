@@ -1,0 +1,5 @@
+E:\3. Spring 2019\CS234N\BJApp\UnitTests\bin\Debug\netstandard2.0\BJApp.exe
+E:\3. Spring 2019\CS234N\BJApp\UnitTests\obj\Debug\netstandard2.0\UnitTests.csprojAssemblyReference.cache
+E:\3. Spring 2019\CS234N\BJApp\UnitTests\obj\Debug\netstandard2.0\UnitTests.csproj.CoreCompileInputs.cache
+E:\3. Spring 2019\CS234N\BJApp\UnitTests\obj\Debug\netstandard2.0\UnitTests.AssemblyInfoInputs.cache
+E:\3. Spring 2019\CS234N\BJApp\UnitTests\obj\Debug\netstandard2.0\UnitTests.AssemblyInfo.cs

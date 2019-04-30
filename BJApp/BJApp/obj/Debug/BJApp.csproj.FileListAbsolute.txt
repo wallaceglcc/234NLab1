@@ -1,0 +1,13 @@
+E:\3. Spring 2019\CS234N\BJApp\BJApp\obj\Debug\BJApp.csprojAssemblyReference.cache
+E:\3. Spring 2019\CS234N\BJApp\BJApp\obj\Debug\BJApp.Properties.Resources.resources
+E:\3. Spring 2019\CS234N\BJApp\BJApp\obj\Debug\BJApp.csproj.GenerateResource.cache
+E:\3. Spring 2019\CS234N\BJApp\BJApp\obj\Debug\BJApp.csproj.CoreCompileInputs.cache
+H:\3. Spring 2019\CS234N\BJApp\BJApp\bin\Debug\BJApp.exe.config
+H:\3. Spring 2019\CS234N\BJApp\BJApp\bin\Debug\BJApp.exe
+H:\3. Spring 2019\CS234N\BJApp\BJApp\bin\Debug\BJApp.pdb
+H:\3. Spring 2019\CS234N\BJApp\BJApp\obj\Debug\BJApp.csprojAssemblyReference.cache
+H:\3. Spring 2019\CS234N\BJApp\BJApp\obj\Debug\BJApp.Properties.Resources.resources
+H:\3. Spring 2019\CS234N\BJApp\BJApp\obj\Debug\BJApp.csproj.GenerateResource.cache
+H:\3. Spring 2019\CS234N\BJApp\BJApp\obj\Debug\BJApp.csproj.CoreCompileInputs.cache
+H:\3. Spring 2019\CS234N\BJApp\BJApp\obj\Debug\BJApp.exe
+H:\3. Spring 2019\CS234N\BJApp\BJApp\obj\Debug\BJApp.pdb
