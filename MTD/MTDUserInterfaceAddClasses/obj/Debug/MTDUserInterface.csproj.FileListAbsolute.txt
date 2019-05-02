@@ -1,0 +1,13 @@
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.csprojAssemblyReference.cache
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.PlayMTDRightClick.resources
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.Properties.Resources.resources
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.csproj.GenerateResource.cache
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\bin\Debug\MTDUserInterface.exe.config
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\bin\Debug\MTDUserInterface.exe
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\bin\Debug\MTDUserInterface.pdb
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\bin\Debug\MTDClasses.dll
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\bin\Debug\MTDClasses.pdb
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.csproj.CopyComplete
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.exe
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.pdb

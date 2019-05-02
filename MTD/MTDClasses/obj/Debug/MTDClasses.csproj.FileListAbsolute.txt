@@ -10,3 +10,9 @@ H:\3. Spring 2019\CS234N\Lab 0\mexicantraindominos-wallaceglcc-master\mexicantra
 H:\3. Spring 2019\CS234N\Lab 0\mexicantraindominos-wallaceglcc-master\mexicantraindominos-wallaceglcc-master\MTD\MTDClasses\obj\Debug\MTDClasses.csproj.CoreCompileInputs.cache
 H:\3. Spring 2019\CS234N\Lab 0\mexicantraindominos-wallaceglcc-master\mexicantraindominos-wallaceglcc-master\MTD\MTDClasses\obj\Debug\MTDClasses.dll
 H:\3. Spring 2019\CS234N\Lab 0\mexicantraindominos-wallaceglcc-master\mexicantraindominos-wallaceglcc-master\MTD\MTDClasses\obj\Debug\MTDClasses.pdb
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDClasses\bin\Debug\MTDClasses.dll
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDClasses\bin\Debug\MTDClasses.pdb
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDClasses\obj\Debug\MTDClasses.csprojAssemblyReference.cache
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDClasses\obj\Debug\MTDClasses.csproj.CoreCompileInputs.cache
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDClasses\obj\Debug\MTDClasses.dll
+C:\Users\Kirvin\Desktop\234NLab1\MTD\MTDClasses\obj\Debug\MTDClasses.pdb
